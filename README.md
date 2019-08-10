@@ -1,6 +1,9 @@
 # People Web Service
 
-> Note: I took sometime and deployed the code. You can check it using this [link](http://142.93.222.251:3000/api/requiredUsers). Please excuse my scrappy front end design. :sweat_smile:	 
+> Note: I took sometime and deployed the code. You can check it using this [link](http://142.93.222.251:3000/api/requiredUsers). (If the server is not running, please shoot me a mail and I will run go into the remote server and run it) Please excuse my scrappy front end design. :sweat_smile:
+
+## Frontend
+![](Frontend.gif) 
 
 ## Steps to run the app using Ubuntu:
 1. Install java using this command: `sudo apt-get update && sudo apt-get install openjdk-8-jdk`
